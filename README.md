@@ -28,9 +28,11 @@ Acesse a pasta do projeto e abra o arquivo index.html em seu navegador.
 
 📦 Dependências
 
-Este projeto utiliza Flowbite via CDN. Para garantir seu funcionamento, mantenha a seguinte referência no <head>:<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css">
+Este projeto utiliza Flowbite via CDN. Para garantir seu funcionamento, mantenha a seguinte referência no <head>:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css">
 
-E o seguinte script antes do fechamento do <body>:<script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
+E o seguinte script antes do fechamento do <body>:
+<script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
 
 
 
